@@ -32,9 +32,9 @@ header img{
 
 
 main{
-	max-width: ;
-	margin: ;
-	padding: ;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
 }
 
 main img{
@@ -44,8 +44,8 @@ main img{
 
 h2{
 	font-size: 30px;
-	color: ;
-	margin: ;
+	color: black;
+	margin: 40px 0 10px;
 }
 
 a{
