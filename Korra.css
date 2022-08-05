@@ -1,0 +1,72 @@
+body{
+	margin: ;
+	font-family: ;
+	font-size: ;
+	line-height: ;
+}
+
+
+header{
+	background-color: ;
+	text-align: ;
+	padding-top: ;
+	padding-bottom: ;
+}
+
+h1, h2{
+	font-family: ;
+	text-transform: ;
+}
+
+
+header h1{
+	color: ;
+	font-size: ;
+}
+
+header img{
+	border-radius: ;
+	width: ;
+	border: ;
+}
+
+
+main{
+	max-width: ;
+	margin: ;
+	padding: ;
+}
+
+main img{
+	max-width: ;
+}
+
+
+h2{
+	font-size: ;
+	color: ;
+	margin: ;
+}
+
+a{
+	color: ;
+}
+
+
+
+footer{
+	background-color: ;
+	text-align: ;
+	color: ;
+	padding: ;
+	text-transform: ;
+}
+
+footer p{
+	margin: ;
+}
+
+footer a{
+	color: ;
+}
+
