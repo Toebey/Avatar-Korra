@@ -20,14 +20,14 @@ h1, h2{
 
 
 header h1{
-	color: ;
-	font-size: ;
+	color: white;
+	font-size: 50px;
 }
 
 header img{
-	border-radius: ;
-	width: ;
-	border: ;
+	border-radius: 170px;
+	width: 300px;
+	border: 20px solid white;
 }
 
 
