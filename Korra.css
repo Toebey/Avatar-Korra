@@ -1,21 +1,21 @@
 body{
-	margin: ;
+	margin: 0;
 	font-family: ;
-	font-size: ;
-	line-height: ;
+	font-size: 20px;
+	line-height: 30px;
 }
 
 
 header{
-	background-color: ;
-	text-align: ;
-	padding-top: ;
-	padding-bottom: ;
+	background-color: #6495ED;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 h1, h2{
 	font-family: ;
-	text-transform: ;
+	text-transform: uppercase;
 }
 
 
