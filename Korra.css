@@ -38,12 +38,12 @@ main{
 }
 
 main img{
-	max-width: ;
+	max-width: 100%;
 }
 
 
 h2{
-	font-size: ;
+	font-size: 30px;
 	color: ;
 	margin: ;
 }
@@ -56,10 +56,10 @@ a{
 
 footer{
 	background-color: ;
-	text-align: ;
+	text-align: center;
 	color: ;
-	padding: ;
-	text-transform: ;
+	padding: 50px;
+	text-transform: capitalize;
 }
 
 footer p{
